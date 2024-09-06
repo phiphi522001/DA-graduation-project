@@ -48,5 +48,29 @@ Dataset này chứa dữ liệu về hàm lượng dinh dưỡng của nhiều l
 - **Vitamin E (tính bằng mg)**: giúp chống oxy hoá, bảo vệ da, sức khoẻ tim mạch, hỗ trợ hệ thần kinh, cải thiện thị lực, tăng cường miễn dịch.
 - **Vitamin K (tính bằng mcg)**: tham gia vào quá trình đông máu, giúp máu đông lại khi bị thương, tăng cường sức khoẻ xương, điều hoà canxi.  
 
+## Key insights
 
+Sau khi phân tích tập dữ liệu trên, tôi đã rút ra được các insight sau:
 
+- Nhóm các món ăn ngũ cốc, thịt đỏ (bò, heo, gà, ...), kẹo chứa rất nhiều calo.
+- Ngũ cốc chứa rất nhiều carbohydrate và lượng đường, chất xơ. Bánh kẹo cũng chứa rất nhiều đường.
+- Protein và cholesterol chứa nhiều nhất trong các món thịt đỏ.
+- Khoáng chất có nhiều trong các loại thịt đỏ, soup, và ngũ cốc.
+- Các món thịt (bò, heo, cừu, gà) và các món bánh kẹo, phomai rất nhiều chất béo.
+- Vitamin nhóm B được tìm thấy nhiều nhất ở ngũ cốc, thịt đỏ.
+- Vitamin E chứa nhiều trong các loại hạt, ngũ cốc.
+- Vitamin C chứa nhiều trong ớt, trái cây có vị chua, nước trái cây.
+- Vitamin K chứa nhiều trong các loại gia vị, rau xanh.
+- Vitamin A có nhiều trong các loại ngũ cốc, và thịt đỏ.
+
+## Giả thuyết dựa trên các key insights
+
+Từ các phân tích về mối tương quan, tôi có một số giả thuyết sau: 
+
+- Thức ăn càng nhiều đường và calo thì lượng carbohydrate rất cao.
+- Nhóm các thức ăn chứa càng nhiều Niacin thì càng nhiều các vitamin nhóm B.
+- Càng nhiều calo thì lượng chất béo càng cao và ngược lại. 
+
+## Recommendations
+- Đối với những người bị béo phì hoặc đang giảm cân, thì việc cắt giảm lượng calo và chất béo, cholesterol trong các món ăn là rất cần thiết. Nên ăn nhiều rau xanh và chất béo thực vật.
+- Đối với những người có đường huyết cao thì việc bổ xung chất xơ, protein, chất béo lành mạnh là rất tốt vì các chất này giúp ổn định đường huyết. Rau xanh và các loại hạt là các món ăn đề xuất.
