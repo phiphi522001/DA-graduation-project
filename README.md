@@ -72,5 +72,5 @@ Từ các phân tích về mối tương quan, tôi có một số giả thuyế
 - Càng nhiều calo thì lượng chất béo càng cao và ngược lại. 
 
 ## Recommendations
-- Đối với những người bị béo phì hoặc đang giảm cân, thì việc cắt giảm lượng calo và chất béo, cholesterol trong các món ăn là rất cần thiết. Nên ăn nhiều rau xanh và chất béo thực vật.
+- Đối với những người bị béo phì hoặc đang giảm cân, thì việc cắt giảm lượng calo và chất béo (từ động vật, chất béo bão hoà), cholesterol trong các món ăn là rất cần thiết. Nên ăn nhiều rau xanh và chất béo thực vật.
 - Đối với những người có đường huyết cao thì việc bổ xung chất xơ, protein, chất béo lành mạnh là rất tốt vì các chất này giúp ổn định đường huyết. Rau xanh và các loại hạt là các món ăn đề xuất.
