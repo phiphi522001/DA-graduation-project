@@ -1,4 +1,4 @@
-# DA_graduation_project
+# DA-graduation-project
 
 ## Objectives
 **PROJECT NAME: ANALYZE NUTRITIONAL CONTENT AND BUILD A MODEL TO FORECAST CALORIES IN DISHES**
