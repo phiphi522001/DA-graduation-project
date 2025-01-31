@@ -1,5 +1,4 @@
 # DA-project
-Đây là project tốt nghiệp khoá học DA của tôi.
 
 ## Mục tiêu
 **PROJECT: PHÂN TÍCH HÀM LƯỢNG DINH DƯỠNG VÀ XÂY DỰNG MÔ HÌNH DỰ BÁO LƯỢNG CALO CÓ TRONG CÁC MÓN ĂN**
