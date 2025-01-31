@@ -7,9 +7,6 @@
 ## Dataset used
 [LINK TO DATASET](https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset/)
 
-**Note**: The dataset has been edited by me (spelling errors in column names) and some columns have been removed for ease of analysis.
-
-### Overview of the dataset
 This dataset contains data on the nutritional content of many types of food divided into different categories.
 
 **Description of columns:**
@@ -45,6 +42,8 @@ This dataset contains data on the nutritional content of many types of food divi
 - **Vitamin C (in mg)**: helps strengthen the immune system, heal wounds, increase iron absorption, anti-oxidant, reduce the risk of cardiovascular disease, improve skin health, support the nervous system.
 - **Vitamin E (in mg)**: helps with anti-oxidation, protects skin, cardiovascular health, supports the nervous system, improves vision, and boosts immunity.
 - **Vitamin K (in mcg)**: participates in the blood clotting process, helps blood clot when injured, strengthens bone health, and regulates calcium.
+
+**Note**: The dataset has been edited by me (spelling errors in column names) and some columns have been removed for ease of analysis.
 
 ## Key insights
 
