@@ -1,7 +1,7 @@
 # DA-project
 
 ## Mục tiêu
-**PROJECT: PHÂN TÍCH HÀM LƯỢNG DINH DƯỠNG VÀ XÂY DỰNG MÔ HÌNH DỰ BÁO LƯỢNG CALO CÓ TRONG CÁC MÓN ĂN**
+**PROJECT NAME: PHÂN TÍCH HÀM LƯỢNG DINH DƯỠNG VÀ XÂY DỰNG MÔ HÌNH DỰ BÁO LƯỢNG CALO CÓ TRONG CÁC MÓN ĂN**
 - Phân tích hàm lượng các chất dinh dưỡng có trong các danh mục món ăn, từ đó nhận ra giá trị dinh dưỡng của các nhóm món ăn giúp xây dựng một chế độ ăn uống lành mạnh.
 - Xây dựng mô hình dự báo dự báo hàm lượng calo có trong các món ăn mới.
 ## Dataset sử dụng
